@@ -5,5 +5,5 @@ My first Github contribution
 ## Day 3
 - Practiced leetcode problem 242 in C ++
 
-##Day 4
-practiced leetcode problen 136 - single number
+## Day 4
+ - practiced leetcode problen 136 - single number
