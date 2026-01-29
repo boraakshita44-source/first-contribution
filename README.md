@@ -7,3 +7,5 @@ My first Github contribution
 
 ## Day 4
  - practiced leetcode problen 136 - single number
+## Day 5
+practiced leetcode
