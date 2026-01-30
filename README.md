@@ -9,3 +9,5 @@ My first Github contribution
  - practiced leetcode problen 136 - single number
 ## Day 5
 practiced leetcode
+## Day 6
+Practiced leetcode problem 20
