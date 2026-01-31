@@ -11,3 +11,5 @@ My first Github contribution
 practiced leetcode
 ## Day 6
 Practiced leetcode problem 20
+## Day 7
+practiced leetcode
