@@ -13,3 +13,5 @@ practiced leetcode
 Practiced leetcode problem 20
 ## Day 7
 practiced leetcode
+## Day 8
+practiced leetcode
