@@ -15,3 +15,5 @@ Practiced leetcode problem 20
 practiced leetcode
 ## Day 8
 practiced leetcode
+## Day 9
+practiced leetcode after giving vtu maths exam
