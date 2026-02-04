@@ -19,3 +19,5 @@ practiced leetcode
 practiced leetcode after giving vtu maths exam
 ## Day 10
 practiced leetcode
+## Day 11 
+practiced leetcode after ddco exam
