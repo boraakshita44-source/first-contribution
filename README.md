@@ -25,3 +25,5 @@ practiced leetcode after ddco exam
 leetcode problem roman to integer
 ## Day 13
 leetcode pronlem solved after os exam
+## Day 14
+practiced leetcode problem 27 remove element
