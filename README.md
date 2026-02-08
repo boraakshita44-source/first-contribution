@@ -27,3 +27,5 @@ leetcode problem roman to integer
 leetcode pronlem solved after os exam
 ## Day 14
 practiced leetcode problem 27 remove element
+## Day 15 
+practiced leetcode problem 28
