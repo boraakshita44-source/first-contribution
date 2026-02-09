@@ -29,3 +29,5 @@ leetcode pronlem solved after os exam
 practiced leetcode problem 27 remove element
 ## Day 15 
 practiced leetcode problem 28
+## Day 16 
+leetcode problem 35
