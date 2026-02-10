@@ -31,3 +31,5 @@ practiced leetcode problem 27 remove element
 practiced leetcode problem 28
 ## Day 16 
 leetcode problem 35
+## Day 17
+leetcode problem 21 after giving dsa exam
