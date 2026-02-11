@@ -33,3 +33,5 @@ practiced leetcode problem 28
 leetcode problem 35
 ## Day 17
 leetcode problem 21 after giving dsa exam
+## Day 18
+leetcode problem 58
