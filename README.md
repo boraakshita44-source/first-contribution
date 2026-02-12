@@ -35,3 +35,5 @@ leetcode problem 35
 leetcode problem 21 after giving dsa exam
 ## Day 18
 leetcode problem 58
+## Day 19
+leetcode problem 66
