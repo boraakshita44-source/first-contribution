@@ -41,3 +41,5 @@ leetcode problem 66
 leetcode problem 67
 ## Day 21
 leetcode problem 88
+## Day 22
+leetcode problem 69
