@@ -47,3 +47,5 @@ leetcode problem 69
 lee5code problem 83
 ## Day 24
 leetcode problem 70 
+## Day 25
+leetcode problem 94
