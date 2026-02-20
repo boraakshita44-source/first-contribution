@@ -51,3 +51,5 @@ leetcode problem 70
 leetcode problem 94
 ## Day 26
 leetcode problem 100
+## Day 27
+leetcode problem 95
