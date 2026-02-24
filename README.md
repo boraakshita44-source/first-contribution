@@ -59,3 +59,5 @@ leetcode first hard problem 23
 leetcode problem 2
 ## Day 30
 leetcode problem 30
+## Day 31
+leetcode problem 5
