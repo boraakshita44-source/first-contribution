@@ -61,3 +61,5 @@ leetcode problem 2
 leetcode problem 30
 ## Day 31
 leetcode problem 5
+## Day 32
+leetcode problem 6
