@@ -69,3 +69,5 @@ leetcode problem 7
 leetcode problem 8
 ## Day 35
 leetcode problem 11
+## Day 36
+leetcode problem 12
