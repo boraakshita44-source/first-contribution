@@ -79,3 +79,5 @@ leetcode problem 33
 leetcode problem 17
 ## Day 40
 leetcode problem 22
+## Day 41
+leetcode problem 38
