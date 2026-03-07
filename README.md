@@ -81,3 +81,5 @@ leetcode problem 17
 leetcode problem 22
 ## Day 41
 leetcode problem 38
+## Day 42
+leetcod3 problem 33
