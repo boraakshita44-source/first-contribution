@@ -111,3 +111,5 @@ leetcode problem 31
 leetcode problem 56
 ## Day 55
 leetcode problem 98
+## Day 56
+leetcode problem 40
